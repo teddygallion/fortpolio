@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/fortpolio/static/css/main.0f0544ad.css",
+    "main.js": "/fortpolio/static/js/main.218ae238.js",
+    "static/js/787.5eb3b062.chunk.js": "/fortpolio/static/js/787.5eb3b062.chunk.js",
+    "static/media/icons8-instagram.gif": "/fortpolio/static/media/icons8-instagram.be0aee7cf4f2d36d8bc4.gif",
+    "static/media/icons8-twitter-circled.gif": "/fortpolio/static/media/icons8-twitter-circled.086d4a409fe73f9804d7.gif",
+    "static/media/icons8-linkedin-circled.gif": "/fortpolio/static/media/icons8-linkedin-circled.2d674a21a1e75f761894.gif",
+    "static/media/icons8-github.gif": "/fortpolio/static/media/icons8-github.7d909b64afc22f8b5ad3.gif",
+    "static/media/icons8-upward-arrow.gif": "/fortpolio/static/media/icons8-upward-arrow.0449b724cbacd4be901d.gif",
+    "static/media/smolskul.png": "/fortpolio/static/media/smolskul.b919c8923ffce84e6797.png",
+    "index.html": "/fortpolio/index.html",
+    "main.0f0544ad.css.map": "/fortpolio/static/css/main.0f0544ad.css.map",
+    "main.218ae238.js.map": "/fortpolio/static/js/main.218ae238.js.map",
+    "787.5eb3b062.chunk.js.map": "/fortpolio/static/js/787.5eb3b062.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f0544ad.css",
+    "static/js/main.218ae238.js"
+  ]
+}
