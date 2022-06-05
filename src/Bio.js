@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import smolskul from './smolskul.png'
+import heroimg from './resized.jpg'
 
 export default class Bio extends Component{
 	render(){
@@ -7,15 +7,15 @@ export default class Bio extends Component{
 			<div className='Bio'>
      			<section className="hero" id="about">
 				    <img
-				      src={smolskul}
+				      src={heroimg}
 				      alt="Teddy, a man who develops things"
 				      loading="lazy"
 				      className="hero-img"
 				    />
 			    	<div className="mini-bio">
-				      <h2 className="bio-title">About Me</h2>
+				      <h2 className="bio-title">Hi, I'm Teddy</h2>
 				        <p className="bio-text">
-				          My name is Teddy, and I'm a fullstack developer with over 5 years of experience in Javascript and Python development. My hobbies include coding, coffee and cats.
+				          I'm a fullstack developer with over 5 years of experience in Javascript and Python development. My passions include coding, coffee and cats.
 				        </p>    		
 	    			</div>
   				</section>	
