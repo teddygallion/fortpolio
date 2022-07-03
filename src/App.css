@@ -416,7 +416,7 @@ footer {
   }
 
   .more-about p {
-    text-align: justify;
+    text-align: center;
   }
 
   .icon {
@@ -439,14 +439,14 @@ footer {
 
 @media screen and (max-width: 420px) {
   .hero img {
-    height: 18rem;
-    width: 18rem;
+    height: 15rem;
+    width: 15rem;
   }
 
   .bio {
     width: 18.3rem;
     margin: 1rem auto;
-    
+
   }
 
   .project-container {

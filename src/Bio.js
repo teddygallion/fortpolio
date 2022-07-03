@@ -13,7 +13,7 @@ export default class Bio extends Component{
 				      className="hero-img"
 				    />
 			    	<div className="mini-bio">
-				      <h2 className="bio-title">Hi, I'm Teddy</h2>
+				      <h2 className="bio-title">Hi, I'm Teddy.</h2>
 				        <p className="bio-text">
 				          I'm a fullstack developer with over 5 years of experience in Javascript and Python development. My passions include coding, coffee and cats.
 				        </p>    		
