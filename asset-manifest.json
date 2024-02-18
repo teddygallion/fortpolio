@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/fortpolio/static/css/main.0d2c63b5.css",
-    "main.js": "/fortpolio/static/js/main.7692afa0.js",
-    "static/js/787.5eb3b062.chunk.js": "/fortpolio/static/js/787.5eb3b062.chunk.js",
-    "static/media/fms.png": "/fortpolio/static/media/fms.6dda6e8ebc9ddae421fa.png",
-    "static/media/icons8-instagram.gif": "/fortpolio/static/media/icons8-instagram.be0aee7cf4f2d36d8bc4.gif",
-    "static/media/pyjack.png": "/fortpolio/static/media/pyjack.f646eae8be5e6c9043de.png",
-    "static/media/icons8-twitter-circled.gif": "/fortpolio/static/media/icons8-twitter-circled.086d4a409fe73f9804d7.gif",
-    "static/media/icons8-linkedin-circled.gif": "/fortpolio/static/media/icons8-linkedin-circled.2d674a21a1e75f761894.gif",
-    "static/media/icons8-github.gif": "/fortpolio/static/media/icons8-github.7d909b64afc22f8b5ad3.gif",
-    "static/media/icons8-upward-arrow.gif": "/fortpolio/static/media/icons8-upward-arrow.0449b724cbacd4be901d.gif",
-    "static/media/resized.jpg": "/fortpolio/static/media/resized.12a9466f98eca53b6dd3.jpg",
-    "static/media/smolskul.png": "/fortpolio/static/media/smolskul.b919c8923ffce84e6797.png",
-    "index.html": "/fortpolio/index.html",
-    "main.0d2c63b5.css.map": "/fortpolio/static/css/main.0d2c63b5.css.map",
-    "main.7692afa0.js.map": "/fortpolio/static/js/main.7692afa0.js.map",
-    "787.5eb3b062.chunk.js.map": "/fortpolio/static/js/787.5eb3b062.chunk.js.map"
+    "main.css": "/static/css/main.b08e9c01.css",
+    "main.js": "/static/js/main.c52ffaaf.js",
+    "static/js/787.5eb3b062.chunk.js": "/static/js/787.5eb3b062.chunk.js",
+    "static/media/fms.png": "/static/media/fms.6dda6e8ebc9ddae421fa.png",
+    "static/media/icons8-instagram.gif": "/static/media/icons8-instagram.be0aee7cf4f2d36d8bc4.gif",
+    "static/media/sketchify.png": "/static/media/sketchify.b779378c525144bcf0ae.png",
+    "static/media/pyjack.png": "/static/media/pyjack.dfc8477c92a14541b723.png",
+    "static/media/icons8-twitter-circled.gif": "/static/media/icons8-twitter-circled.086d4a409fe73f9804d7.gif",
+    "static/media/icons8-linkedin-circled.gif": "/static/media/icons8-linkedin-circled.2d674a21a1e75f761894.gif",
+    "static/media/smolskul-resized.png": "/static/media/smolskul-resized.c3fab372575b4494d58d.png",
+    "static/media/icons8-github.gif": "/static/media/icons8-github.7d909b64afc22f8b5ad3.gif",
+    "static/media/icons8-upward-arrow.gif": "/static/media/icons8-upward-arrow.0449b724cbacd4be901d.gif",
+    "static/media/resized.jpg": "/static/media/resized.12a9466f98eca53b6dd3.jpg",
+    "index.html": "/index.html",
+    "main.b08e9c01.css.map": "/static/css/main.b08e9c01.css.map",
+    "main.c52ffaaf.js.map": "/static/js/main.c52ffaaf.js.map",
+    "787.5eb3b062.chunk.js.map": "/static/js/787.5eb3b062.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d2c63b5.css",
-    "static/js/main.7692afa0.js"
+    "static/css/main.b08e9c01.css",
+    "static/js/main.c52ffaaf.js"
   ]
 }
