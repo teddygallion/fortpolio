@@ -131,7 +131,7 @@ nav ul li {
 }
 
 .mini-bio h1 {
-  margin-bottom: var(--bottom-margin);
+  margin-bottom: 30%;
 }
 
 .mini-bio p {
@@ -187,16 +187,8 @@ nav ul li {
 }
 
 .project-pic {
-  width: 65%;
-  height: 60%;
-}
-.fms{
-  height: 98%;
-  width: 98%;
-}
-.pyjack{
-  width: 98%;
-  height: 98%;
+  height:50%;
+  width:50%;
 }
 
 .projects-container {

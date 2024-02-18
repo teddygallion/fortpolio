@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
-import smolskul from './smolskul.png'
 import fms from './fms.png'
 import pyjack from './pyjack.png'
+import sketchify from "./sketchify.png"
+import resized from "./smolskul-resized.png"
 
 export default class Projects extends Component{
 	render(){
@@ -15,7 +16,7 @@ export default class Projects extends Component{
 							          src={fms}
 							          alt="project1"
 							          loading="lazy"
-							          className="fms"
+							          className="project-pic"
 							        />
 			        				<h3 className="project-title">FindMySound</h3>
 							        <p className="project-details">
@@ -28,7 +29,7 @@ export default class Projects extends Component{
 			      				</div>
 						    <div className="project-container project-card">
 						      <img
-						        src={smolskul}
+						        src={resized}
 						        alt="project2"
 						        loading="lazy" 
 						        className="project-pic"
@@ -40,16 +41,31 @@ export default class Projects extends Component{
 								
 			     				<a href="https://github.com/teddygallion/timely" target="_blank" rel="noreferrer" className="project-link"> Github</a>                      
 			    			</div>
+							<div className="project-container project-card">
+						      <img
+						        src={sketchify}
+						        alt="project3"
+						        loading="lazy" 
+						        className="project-pic"
+						      />
+			      				<h3 className="project-title">Sketchify!</h3>
+							    <p className="project-details">
+									A drawing app built entirely in vanilla JavaScript, HTML and CSS. 
+							    </p>
+								
+			     				<a href="https://github.com/teddygallion/sketchify" target="_blank" rel="noreferrer" className="project-link"> Github</a> 
+								 <a href="https://sketch-ify.netlify.app/" target="_blank" rel="noreferrer" className ='project-link'>Check it out! </a>                     
+			    			</div>
 					    <div className="project-container project-card">
 				      		<img
 						        src={pyjack} 
 						        alt="project3"
 						        loading="lazy"
-						        className="pyjack"
+						        className="project-pic"
 						      />
 					      	<h3 className="project-title">Pyjack</h3>
 					     	<p className="project-details">
-						        Blackjack built in Python. Come try your hand and win (or lose!) imaginary money!
+						        Blackjack built in Python. Come try your hand!
 					      	</p> 
 			      			<a href="https://github.com/teddygallion/pyjack" target="_blank" rel="noreferrer" className="project-link">Github</a> <br/>
 			      			<a href="https://replit.com/@teddybob/pyjack" target="_blank" rel="noreferrer" className ='project-link'>Check it out! </a>
